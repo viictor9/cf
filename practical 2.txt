@@ -1,0 +1,30 @@
+	PRACTICAL 2
+
+AIM: 	Data Acquisition: 
+- Perform data acquisition using: 	
+- USB Write Blocker + FTK Imager
+
+Step 1: Open registry.
+
+Step 2: This will open the Registry Editor. Navigate to following key:
+	HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control
+
+Step 3: Right Click on the Control key in the left panel,select new > Key
+
+
+Step 4: Name it as StorageDevicePolicies.
+
+
+Step 5: Right Click on the StorageDevicePolicies in left panel select new > DWORD 
+value and name it as WriteProtect.
+
+
+Step 6: Double Click on WriteProtect and then change the value data from 0 to 1.
+
+
+Step 7: The new setting takes effect immediately. Every user who tries to copy /
+move data to USB devices or format USB drive will get the error message
+
+
+Step 8: We can only open the file in the USB drive for reading .but it’s not allowed to
+ modify and save the changes back to USB drive.

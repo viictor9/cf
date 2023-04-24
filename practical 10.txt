@@ -1,0 +1,37 @@
+	Practical 10
+
+AIM: Web Browser Forensics
+-	Web Browser working.
+-	Forensics activities on browser.
+-	Cache / Cookies analysis.
+-	Last Internet activity.
+
+Step 1: Open Browser History Examiner, Click on File  Capture History.
+
+Step 2: Select “Capture history from this computer”, and click on Next.
+
+
+Step 3: Select Destination Folder where the Captured Files will be Saved and click on Capture.
+ It will Start Capturing the Data.
+
+
+Step 4: After Capturing of Data, a window will appear asking to load the captured data. 
+Click on “Yes”.
+
+
+Step 5: Following are the Captured Data from our Browsers, organized into “Artefact”
+ classes on the left pane. Select each class to view their respective captured Data.
+
+
+Step 6: Click on File  Export  Export to HTML.
+
+
+Step 7: A window will appear asking about the data to be displayed in the HTML file.
+ Select all and click on Export, after that select the location where the HTML File will be saved.
+
+
+Step 8: The HTML file will be saved successfully in the Specified Location.
+
+
+Step 9: Open the HTML file from the saved location. It will get opened in the default browser as shown below:
+

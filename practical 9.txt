@@ -1,0 +1,41 @@
+	PRACTICAL 9
+
+AIM: Email Forensics
+-	Mail Service Providers
+-	Email protocols
+-	Recovering emails
+-	Analyzing email header
+
+
+Step 1: Open Forensic Toolkit and click on file new case.
+
+Step 2: Fill the following details and click next.
+
+Step 3: Click next. 
+
+Step 4: Ensure that all checkboxes are checked and then click next.
+
+Step 5: Select all and Click next.
+
+Step 6: Select Email Emphasis and Click Next.
+
+Step 7: Click on Add evidence, check Individual File and select the .pst file.
+
+Step 8: Fill the following and click OK.
+
+Step 9: Click next.
+
+Step 10: Click finish.
+
+Step 11: Now select “From E-mail”.
+
+Step 12: Select any message and Export it as a file.
+
+Make sure to check “Export HTML view if available” and Click on OK.
+
+
+Step 13: Deleted Message is recovered at the specified location.
+
+Step 14: Click on .html file, it will get open in the Browser showing the 
+content of the email.
+ 

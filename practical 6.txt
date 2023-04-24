@@ -1,0 +1,47 @@
+		PRACTICAL 6
+
+AIM: Using Sysinternals tools for Network Tracking and Process Monitoring: 
+-	Check Sysinternals tools 
+-	Monitor Live Processes 
+-	Capture RAM 
+-	Capture TCP/UDP packets 
+-	Monitor Hard Disk 
+-	Monitor Virtual Memory 
+-	Monitor Cache Memory
+
+Q1. MONITOR LIVE PROCESSES (TOOL:-PROCMON)
+
+STEP 1: Click on Filter  Process Monitor filter.
+
+STEP 2: Click on Tool  Process Tree.
+
+
+
+Q2. CAPTURE TCP/UDP PACKETS (TOOL:-Tcpview):
+
+STEP 1: Open the Tcpview tool
+
+STEP 2:  Right Click on any of the file and select whois.
+
+
+
+Q3. MONITOR HARD DISK (TOOL:-RAMMap)
+
+STEP 1: Open RAMMap tool.	
+
+
+Q4. MONITOR VIRTUAL MEMORY (TOOL:-VMMap):
+
+STEP 1: Open VMMap tool.	
+
+
+
+Q5.MONITOR CACHE MEMORY (TOOL:-Cacheset):
+
+STEP 1: Open Cacheset Tool.
+
+
+
+
+
+

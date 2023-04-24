@@ -1,0 +1,31 @@
+                                                  PRACTICAL 1
+
+AIM: Creating a Forensic Image using FTK Imager/Encase Imager: 
+- Creating Forensic Image 
+- Check Integrity of Data - Analyze Forensic Image 
+-Creating Forensic Image. 
+
+Step 1: Click File, and then Create Disk Image, or click the button on the tool bar.
+
+Step 2: Select the source evidence type you want to make an image of and click Next.
+
+Step3: Select the source evidence drive with path.
+
+Click on “add” to add image destination.
+
+Step4: In the Image Destination Folder field, type the location path where you want to save the image file, or click Browse to find to the desired location.
+
+
+Step 5: After adding the image destination path click on finish and start the image processing.
+
+Analyse Forensic Image: 
+Step 6: The images are successfully created. Now Click on Add Evidence Item to add evidence from disk, image file or folder.
+
+Now select the source evidence type as image file.
+
+Open the created evidence image file.
+
+
+Step 7:  Now select Evidence Tree and analyse the image file.
+
+

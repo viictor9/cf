@@ -1,0 +1,17 @@
+                                                    PRACTICAL 4
+
+AIM: Capturing and analysing network packets using Wireshark (Fundamentals): 
+- Identification the live network 
+- Capture Packets 
+- Analyse the captured packets.
+
+Step1: Wireshark captures all the packets going in and out of our systems. 
+To Capture traffic on your wireless network, Right click on your “Wi-Fi” interface
+ and then click on “Start capture”. 
+
+
+Step 2: Go to any website (NYU.edu) in your browser and perform some actions.
+
+
+Step 3: Now come back to Wireshark and stop the recording and search for http.
+

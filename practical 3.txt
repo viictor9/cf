@@ -1,0 +1,36 @@
+                                                 PRACTICAL 3
+
+AIM: Forensics Case Study:
+           Solve the Case study (image file) provide in lab using Autopsy. 
+
+Step 1: Open Autopsy and then click on “New Case”.
+
+Step 2: Enter details regarding the case and click on “Next” button.
+
+Step 3: Enter further details and click on “Next” button
+
+Step 4: Now here we have to select Type of data source to add, 
+in our case “Disk image or VM file” and click on “Next”.
+
+Step 5: Now we have to select image file and click on “Next” button.
+
+Step 6: Now make sure that all checkboxes are selected by 
+clicking on “Select All”, in order to Run ingest modules on. Click on “Next”.
+
+Step 7: Now click on “Finish”.
+
+Step 8: Now Autopsy window will appear and analyse the disk that 
+we have selected. To recover the files, go to Views > Deleted Files node, 
+here select any file and right click on it then select “Extract file(s)” option.
+
+Select Path where you want to save extracted file and click on save.
+
+Step 9: Go to Tool > Generate Report.
+
+Step 10: Select “Excel Report” and Click On “Next” and 
+then click on “Close” after the report is generated.
+
+Step 11: Now the Report in Excel Sheet format will be generated and 
+stored in the specified location.
+
+

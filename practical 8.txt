@@ -1,0 +1,53 @@
+	PRACTICAL 8
+AIM: Acquisition of Cell phones and Mobile devices.
+
+Step 1: Download required files 
+(a) MOBILedit! Forensic 10.1.0.25985 Software (Desktop/Laptop)
+(b) Forensic Tool apk (Android)
+
+Step 2: Open MOBILEdit Forensic  (Should be Activated/Cracked)
+
+Step 3: Connect your Device by clicking on “Connection Wizard”.
+
+CLICK ON “Android” and Click on Next [Ignore Open File | SIM Card Reader]
+
+Step 4: Click on “Cable” and Next
+
+Step 5: Follow Instructions and Enable Developer Mode in your Phone. 
+
+
+After Developer Mode Enabled  Enable USB Debugging (developer options)
+
+
+Step 6: Make sure USB Debugging is enabled and you choose to connect 
+with your desktop when confirmation prompts at your phone screen (Tick if required)
+- Click on USB Tethering (when connected with PC/Laptop)
+
+
+It means you’re connected now!
+
+Step 7: Click on Three Lines -> View ->  Tree View 
+
+Step 8: Click on Device to know more info  Report Wizard and follow instructions
+
+
+(Check your information, select Device Capabilities and select path for logfile  BROWSE)
+
+Select Whole file system or Specified File types only
+
+(YOU WILL REQUIRE BACKUP REQUEST APPROVAL WITH YOUR PHONE PASSWORD)  
+
+password to proceed and click Backup my data
+Acquiring of selected data may take a while.
+
+You can check log file later wherever the path was selected after wizard process finished.
+
+Step 9: Click on Cases and click on your device to download/backup available data
+
+Step 10: Click on “Cases” (Left panel) and select your device to 
+Check your reports or Open Data Folder | Done!
+(It’s encrypted Backup Data)
+
+
+
+
